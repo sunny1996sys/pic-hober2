@@ -1,0 +1,33 @@
+	h1 {
+	    text-align: center;
+	}
+	
+	h1:hover {
+	    text-shadow: -2px 0 red, 2px 0 green, 0 -2px yellow, 0 -2px;
+	}
+	
+	.suha {
+	    width: 300px;
+	    text-align: center;
+	    margin: auto;
+	    border: 2px solid red;
+	}
+	
+	.suha img {
+	    width: 100%;
+	    height: ;
+	}
+	
+	.container {
+	    padding: 10px;
+	}
+	
+	.suha h3 {
+	    font-size: 20px;
+	    text-transform: capitalize;
+	    margin: 0;
+	}
+	
+	.suha:hover {
+	    box-shadow: 4px 8px 10px red, 4px 8px 10px red, 2px 4px 10px red;
+	}
